@@ -6,6 +6,17 @@ namespace GradeBook.Tests
     public class TypeTests
     {
         [Fact]
+        public void BookAcceptsGradesBetween0And100()
+        {
+            var book1 = new Book("Gaurav");
+            book1.AddGrade(105);
+
+            var grades = book1.GetGrades();
+
+            Assert.True(grades.Count == 0);
+        }
+
+        [Fact]
         public void Test1()
         {
             var x = GetInt();

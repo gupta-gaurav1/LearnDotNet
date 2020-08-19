@@ -5880,11 +5880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "c:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "C:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+      "projectPath": "c:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
       "packagesPath": "C:\\Users\\bb83160\\.nuget\\packages\\",
-      "outputPath": "C:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\test\\GradeBook.Tests\\obj\\",
+      "outputPath": "c:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\test\\GradeBook.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5902,8 +5902,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+            "c:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "c:\\DEV\\Git\\Self Learning\\LearnDotNet\\gradebook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }
